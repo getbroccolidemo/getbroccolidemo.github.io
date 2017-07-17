@@ -1,0 +1,23 @@
+# Site settings
+title: Broccoli
+email: bojanstef4@gmail.com
+description: Get marijuana in all shapes and sizes anywhere quickly
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+download_button_url: https://bojan.xyz
+
+# Social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: 
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# Build settings
+markdown: kramdown
+
