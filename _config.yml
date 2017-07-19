@@ -1,7 +1,7 @@
 # Site settings
 title: Broccoli
 email: bojanstef4@gmail.com
-description: Get marijuana in all shapes and sizes anywhere quickly
+description: The fastest and easiest way to purchase recreational marijuana.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 download_button_url: https://bojan.xyz
@@ -9,15 +9,14 @@ download_button_url: https://bojan.xyz
 # Social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: 
+github_url: https://github.com/bojanstef
+gitlab_url:
 googleplus_url:
 instagram_url:
-linkedin_url:
+linkedin_url: https://www.linkedin.com/in/bojanstef
 pinterest_url:
 slack_url:
-twitter_url:
+twitter_url: https://twitter.com/bojanstef
 
 # Build settings
 markdown: kramdown
-
