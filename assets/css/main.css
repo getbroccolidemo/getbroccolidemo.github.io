@@ -2049,7 +2049,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #3089e2;
+				background-color: #019875;
 			}
 
 /* Form */
@@ -3221,7 +3221,7 @@
 					.wrapper.style2 input[type="button"].special:active,
 					.wrapper.style2 button.special:active,
 					.wrapper.style2 .button.special:active {
-						background-color: #3089e2;
+						background-color: #019875;
 					}
 
 			.wrapper.style2 label {
@@ -3435,7 +3435,7 @@
 					.wrapper.style3 input[type="button"].special:active,
 					.wrapper.style3 button.special:active,
 					.wrapper.style3 .button.special:active {
-						background-color: #3089e2;
+						background-color: #019875;
 					}
 
 			.wrapper.style3 label {
