@@ -6,13 +6,13 @@ title: Home
 <!-- One -->
 <section id="one" class="wrapper style2 special">
 	<header class="major">
-		<h2>Sed ipsum magna lorem tempus amet<br />
-		vehicula et gravida elementum</h2>
+		<h2>Get marijuana delivered directly to <br />
+		your door at any time</h2>
 	</header>
 	<ul class="icons major">
-		<li><span class="icon fa-camera-retro"><span class="label">Shoot</span></span></li>
-		<li><span class="icon fa-refresh"><span class="label">Process</span></span></li>
-		<li><span class="icon fa-cloud"><span class="label">Upload</span></span></li>
+		<li><img src="https://png.icons8.com/cannabis/ios7/50" title="Cannabis" width="50" height="50"></li>
+		<li><img src="https://png.icons8.com/delivery/ios7/50" title="Delivery" width="50" height="50"></li>
+		<li><img src="https://png.icons8.com/prescription-pill-bottle/ios7/50" title="Prescription Pill Bottle" width="50" height="50"></li>
 	</ul>
 </section>
 
