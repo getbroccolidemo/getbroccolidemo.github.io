@@ -22,22 +22,22 @@ title: Home
 		<section class="spotlight">
 			<div class="image"><img src="assets/images/pic01.jpg" alt="" /></div>
 			<div class="content">
-				<h3>Magna sed ultrices</h3>
-				<p>Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.</p>
+				<h3>Get Your Marijuana Fast</h3>
+				<p>Your orders are received by our drivers who are in your immediate area. Therefore you will get your product extremely fast.</p>
 			</div>
 		</section>
 		<section class="spotlight">
 			<div class="image"><img src="assets/images/pic02.jpg" alt="" /></div>
 			<div class="content">
-				<h3>Ultrices nullam aliquam</h3>
-				<p>Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.</p>
+				<h3>From Federally Trusted Sources</h3>
+				<p>We only buy and sell from <b><a href="https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-use-marijuana/licensed-producers/authorized-licensed-producers-medical-purposes.html" target="_blank">Federally Licensed Producers</a></b> whose products are tested to show accurate measurements of THC content and more.</p>
 			</div>
 		</section>
 		<section class="spotlight">
 			<div class="image"><img src="assets/images/pic03.jpg" alt="" /></div>
 			<div class="content">
-				<h3>Aliquam sed magna</h3>
-				<p>Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.</p>
+				<h3>Any Time & Any  Day</h3>
+				<p>As long as there are drivers and product we will </p>
 			</div>
 		</section>
 		<section class="special">
@@ -52,7 +52,6 @@ title: Home
 	</div>
 </section>
 
-<!-- Four -->
 <!--
 <section id="four" class="wrapper">
 	<div class="inner">
