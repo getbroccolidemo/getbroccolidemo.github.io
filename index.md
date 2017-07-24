@@ -6,8 +6,7 @@ title: Home
 <!-- One -->
 <section id="one" class="wrapper style2 special">
 	<header class="major">
-		<h2>Get marijuana delivered directly to <br />
-		your door at any time</h2>
+		<h2>A mobile app for on-demand marijuana delivery</h2>
 	</header>
 	<ul class="icons major">
 		<li><img src="https://png.icons8.com/cannabis/ios7/50" title="Cannabis" width="50" height="50"></li>
@@ -23,7 +22,7 @@ title: Home
 			<div class="image"><img src="assets/images/pic01.jpg" alt="" /></div>
 			<div class="content">
 				<h3>Get Your Marijuana Fast</h3>
-				<p>Your orders are received by our drivers who are in your immediate area. Therefore you will get your product extremely fast.</p>
+				<p>Your orders are received by our drivers who are in your immediate area and can deliver your product within 30 minutes.</p>
 			</div>
 		</section>
 		<section class="spotlight">
