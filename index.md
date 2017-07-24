@@ -37,7 +37,7 @@ title: Home
 			<div class="image"><img src="assets/images/pic03.jpg" alt="" /></div>
 			<div class="content">
 				<h3>Any Time & Any  Day</h3>
-				<p>As long as there are drivers and product we will </p>
+				<p>Our hours of operation are 24 hours a day, 7 days per week, and 365 days per year. We can always deliver your product.</p>
 			</div>
 		</section>
 		<section class="special">
