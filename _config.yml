@@ -3,7 +3,7 @@ title: Broccoli
 email: bojanstef4@gmail.com
 description: Marijuana At Your Fingertips
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: https://trybroccoli.com
 download_button_url: https://bojan.xyz
 
 # Social settings
