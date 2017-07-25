@@ -39,26 +39,10 @@ title: Home
 				<p>Our hours of operation are 24 hours a day, 7 days per week, and 365 days per year. We can always deliver your product.</p>
 			</div>
 		</section>
-		<section class="special">
-			<ul class="icons labeled">
-				<li><span class="icon fa-camera-retro"><span class="label">Ipsum lorem accumsan</span></span></li>
-				<li><span class="icon fa-refresh"><span class="label">Sed vehicula elementum</span></span></li>
-				<li><span class="icon fa-cloud"><span class="label">Elit fusce consequat</span></span></li>
-				<li><span class="icon fa-code"><span class="label">Lorem nullam tempus</span></span></li>
-				<li><span class="icon fa-desktop"><span class="label">Adipiscing amet sapien</span></span></li>
-			</ul>
-		</section>
 	</div>
 </section>
 
 <!--
-<section id="four" class="wrapper">
-	<div class="inner">
-
-		<header class="major">
-			<h2>Elements</h2>
-		</header>
-
 		<section>
 			<h4>Text</h4>
 			<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.

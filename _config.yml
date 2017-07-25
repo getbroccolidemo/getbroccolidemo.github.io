@@ -5,6 +5,7 @@ description: Marijuana At Your Fingertips
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://trybroccoli.com
 download_button_url: https://bojan.xyz
+email_subscribe_url: https://bojan.xyz/#
 
 # Social settings
 500px_url:
